@@ -1,4 +1,7 @@
 Summary of project: [IOD Capstone Project.pdf](IOD_Capstone_Project.pdf)
+<p align="center">
+</p>
+
 | Visualization Preview       | Description   |
 | ------------- | ------------- |
 | ![alt text](https://github.com/zinogore/Capstone_Project/blob/main/API_DEMO_Capstone_Project%20(Shortened).gif?raw=true) | API DEMO |
