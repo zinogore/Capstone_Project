@@ -1,6 +1,4 @@
 Summary of project: [IOD Capstone Project.pdf](IOD_Capstone_Project.pdf)
-<p align="center">
-</p>
 
 | Visualization Preview       | Description   |
 | ------------- | ------------- |
